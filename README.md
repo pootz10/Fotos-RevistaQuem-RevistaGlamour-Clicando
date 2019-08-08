@@ -1,2 +1,4 @@
-# Fotos-RevistaQuem-RevistaGlamour-Clicando
-Permite Abrir Fotos de Links da RevistaQuem e RevistaGlamour da Globo.com na Outra Aba Clicando
+1. click on the file imdb_no_legendas.tv.user.js
+2. click on raw and your browser extension should ask to install it.
+
+https://openuserjs.org/about/Userscript-Beginners-HOWTO

@@ -4,8 +4,9 @@
 // @description Permite Abrir Fotos de Links da RevistaQuem e RevistaGlamour da Globo.com na Outra Aba Clicando
 // @include     http://revista*.globo.com/*.html
 // @include     https://revista*.globo.com/*.html
-// @version     1.0
-// @history     ...
+// @include     https://vogue.globo.com/*.html
+// @version     1.1
+// @history     v1.1 adicionado vogue
 // @license     MIT
 // @require     https://code.jquery.com/jquery-2.2.3.min.js
 // @require     https://gist.githubusercontent.com/BrockA/2625891/raw/9c97aa67ff9c5d56be34a55ad6c18a314e5eb548/waitForKeyElements.js

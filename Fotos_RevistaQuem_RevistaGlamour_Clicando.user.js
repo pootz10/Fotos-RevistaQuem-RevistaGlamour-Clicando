@@ -2,10 +2,11 @@
 // @name        Fotos RevistaQuem RevistaGlamour Clicando
 // @namespace   pootz10
 // @description Permite Abrir Fotos de Links da RevistaQuem e RevistaGlamour da Globo.com na Outra Aba Clicando
-// @include     http://revista*.globo.com/*.html
 // @include     https://revista*.globo.com/*.html
 // @include     https://vogue.globo.com/*.html
-// @version     1.1
+// @include     https://gq.globo.com/*.html
+// @version     1.2
+// @history     v1.2 adicionado gq
 // @history     v1.1 adicionado vogue
 // @license     MIT
 // @require     https://code.jquery.com/jquery-2.2.3.min.js

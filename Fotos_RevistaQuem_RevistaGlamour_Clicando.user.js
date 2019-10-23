@@ -11,8 +11,8 @@
 // @license     MIT
 // @require     https://code.jquery.com/jquery-2.2.3.min.js
 // @require     https://gist.githubusercontent.com/BrockA/2625891/raw/9c97aa67ff9c5d56be34a55ad6c18a314e5eb548/waitForKeyElements.js
-// @updateURL   https://raw.githubusercontent.com/pootz10/Fotos-RevistaQuem-RevistaGlamour-Clicando/master/Fotos_RevistaQuem_RevistaGlamour_Clicando.user.js
-// @downloadURL https://raw.githubusercontent.com/pootz10/Fotos-RevistaQuem-RevistaGlamour-Clicando/master/Fotos_RevistaQuem_RevistaGlamour_Clicando.user.js
+// @updateURL   https://github.com/pootz10/Fotos-RevistaQuem-RevistaGlamour-Clicando/raw/master/Fotos_RevistaQuem_RevistaGlamour_Clicando.user.js
+// @downloadURL https://github.com/pootz10/Fotos-RevistaQuem-RevistaGlamour-Clicando/raw/master/Fotos_RevistaQuem_RevistaGlamour_Clicando.user.js
 // @grant       GM_openInTab
 // @run-at      document-idle
 // ==/UserScript==

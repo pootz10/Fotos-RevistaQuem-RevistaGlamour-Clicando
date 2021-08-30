@@ -5,7 +5,8 @@
 // @include     https://revista*.globo.com/*.html
 // @include     https://vogue.globo.com/*.html
 // @include     https://gq.globo.com/*.html
-// @version     1.3
+// @version     1.4
+// @history     v1.4 atualizacao no codigo da pagina q fez o script deixar de funcionar como deveria
 // @history     v1.3 fix mudança de tag image pra img do site
 // @history     v1.2 adicionado gq
 // @history     v1.1 adicionado vogue
@@ -18,11 +19,11 @@
 // @run-at      document-idle
 // ==/UserScript==
 
-waitForKeyElements(".lazy-loaded.lazy-loaded", clickableImage, false);
+waitForKeyElements("figure > img", clickableImage, false);
 
 function clickableImage (jNode) {
 
-     var imgLink = jNode.data ("src");
+     var imgLink = jNode.prop ("src");
      jNode.on( "click", function() {
 
          GM_openInTab(imgLink);
